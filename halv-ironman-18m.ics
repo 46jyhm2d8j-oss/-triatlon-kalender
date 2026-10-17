@@ -1,0 +1,3754 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Halv Ironman 18m//NO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Halv Ironman – 18 måneder
+X-WR-TIMEZONE:Europe/Oslo
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+BEGIN:VEVENT
+UID:triathlon-w01-d1@trainingplan
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 1/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w01-d2@trainingplan
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:🏃 Rolig løp – 2\,5 km
+DESCRIPTION:Uke 1/78 • Tilvenning\n5 min rask gange. 2\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w01-d3@trainingplan
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:🚴 Valgfri lett sykkel – 35 min
+DESCRIPTION:Uke 1/78 • Tilvenning\n35 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w01-d4@trainingplan
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:🏊 Svøm utholdenhet – 0\,8 km
+DESCRIPTION:Uke 1/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w01-d5@trainingplan
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:🚴 Lang sykkel – 15\,0 km
+DESCRIPTION:Uke 1/78 • Tilvenning\n15\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w01-d6@trainingplan
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:🏃 Lang rolig – 3\,0 km
+DESCRIPTION:Uke 1/78 • Tilvenning\n5 min gange. 3\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w02-d1@trainingplan
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 2/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w02-d2@trainingplan
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:🏃 Rolig løp – 2\,7 km
+DESCRIPTION:Uke 2/78 • Tilvenning\n5 min rask gange. 2\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w02-d3@trainingplan
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:🚴 Valgfri lett sykkel – 40 min
+DESCRIPTION:Uke 2/78 • Tilvenning\n40 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w02-d4@trainingplan
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:🏊 Svøm utholdenhet – 0\,8 km
+DESCRIPTION:Uke 2/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w02-d5@trainingplan
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:🚴 Lang sykkel – 17\,0 km
+DESCRIPTION:Uke 2/78 • Tilvenning\n17\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w02-d6@trainingplan
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:🏃 Lang rolig – 3\,2 km
+DESCRIPTION:Uke 2/78 • Tilvenning\n5 min gange. 3\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w03-d1@trainingplan
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 3/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w03-d2@trainingplan
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:🏃 Rolig løp – 3\,0 km
+DESCRIPTION:Uke 3/78 • Tilvenning\n5 min rask gange. 3\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w03-d3@trainingplan
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:🚴 Valgfri lett sykkel – 45 min
+DESCRIPTION:Uke 3/78 • Tilvenning\n45 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w03-d4@trainingplan
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:🏊 Svøm utholdenhet – 0\,9 km
+DESCRIPTION:Uke 3/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w03-d5@trainingplan
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:🚴 Lang sykkel – 19\,0 km
+DESCRIPTION:Uke 3/78 • Tilvenning\n19\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w03-d6@trainingplan
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:🏃 Lang rolig – 3\,5 km
+DESCRIPTION:Uke 3/78 • Tilvenning\n5 min gange. 3\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w04-d1@trainingplan
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 4/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w04-d2@trainingplan
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:🏃 Rolig løp – 2\,4 km
+DESCRIPTION:Uke 4/78 • Tilvenning\n5 min rask gange. 2\,4 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w04-d3@trainingplan
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:🚴 Valgfri lett sykkel – 30 min
+DESCRIPTION:Uke 4/78 • Tilvenning\n30 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w04-d4@trainingplan
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:🏊 Svøm utholdenhet – 0\,8 km
+DESCRIPTION:Uke 4/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w04-d5@trainingplan
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:🚴 Lang sykkel – 15\,0 km
+DESCRIPTION:Uke 4/78 • Tilvenning\n15\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w04-d6@trainingplan
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:🏃 Lang rolig – 3\,0 km
+DESCRIPTION:Uke 4/78 • Tilvenning\n5 min gange. 3\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w05-d1@trainingplan
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 5/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w05-d2@trainingplan
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:🏃 Rolig løp – 3\,0 km
+DESCRIPTION:Uke 5/78 • Tilvenning\n5 min rask gange. 3\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w05-d3@trainingplan
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:🚴 Valgfri lett sykkel – 45 min
+DESCRIPTION:Uke 5/78 • Tilvenning\n45 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w05-d4@trainingplan
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:🏊 Svøm utholdenhet – 0\,9 km
+DESCRIPTION:Uke 5/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w05-d5@trainingplan
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:🚴 Lang sykkel – 20\,0 km
+DESCRIPTION:Uke 5/78 • Tilvenning\n20\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w05-d6@trainingplan
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:🏃 Lang rolig – 3\,8 km
+DESCRIPTION:Uke 5/78 • Tilvenning\n5 min gange. 3\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w06-d1@trainingplan
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 6/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w06-d2@trainingplan
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:🏃 Rolig løp – 3\,2 km
+DESCRIPTION:Uke 6/78 • Tilvenning\n5 min rask gange. 3\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w06-d3@trainingplan
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🚴 Valgfri lett sykkel – 50 min
+DESCRIPTION:Uke 6/78 • Tilvenning\n50 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w06-d4@trainingplan
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:🏊 Svøm utholdenhet – 1\,0 km
+DESCRIPTION:Uke 6/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w06-d5@trainingplan
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:🚴 Lang sykkel – 22\,0 km
+DESCRIPTION:Uke 6/78 • Tilvenning\n22\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w06-d6@trainingplan
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:🏃 Lang rolig – 4\,0 km
+DESCRIPTION:Uke 6/78 • Tilvenning\n5 min gange. 4\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w07-d1@trainingplan
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 7/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w07-d2@trainingplan
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:🏃 Rolig løp – 3\,4 km
+DESCRIPTION:Uke 7/78 • Tilvenning\n5 min rask gange. 3\,4 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w07-d3@trainingplan
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:🚴 Valgfri lett sykkel – 50 min
+DESCRIPTION:Uke 7/78 • Tilvenning\n50 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w07-d4@trainingplan
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:🏊 Svøm utholdenhet – 1\,1 km
+DESCRIPTION:Uke 7/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w07-d5@trainingplan
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:🚴 Lang sykkel – 24\,0 km
+DESCRIPTION:Uke 7/78 • Tilvenning\n24\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w07-d6@trainingplan
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:🏃 Lang rolig – 4\,3 km
+DESCRIPTION:Uke 7/78 • Tilvenning\n5 min gange. 4\,3 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w08-d1@trainingplan
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 8/78 • Tilvenning\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w08-d2@trainingplan
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:🏃 Rolig løp – 2\,8 km
+DESCRIPTION:Uke 8/78 • Tilvenning\n5 min rask gange. 2\,8 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w08-d3@trainingplan
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:🚴 Valgfri lett sykkel – 35 min
+DESCRIPTION:Uke 8/78 • Tilvenning\n35 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w08-d4@trainingplan
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:🏊 Svøm utholdenhet – 0\,8 km
+DESCRIPTION:Uke 8/78 • Tilvenning\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w08-d5@trainingplan
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:🚴 Lang sykkel – 18\,0 km
+DESCRIPTION:Uke 8/78 • Tilvenning\n18\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w08-d6@trainingplan
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:🏃 Lang rolig – 3\,5 km
+DESCRIPTION:Uke 8/78 • Tilvenning\n5 min gange. 3\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w09-d1@trainingplan
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 9/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w09-d2@trainingplan
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:🏃 Rolig løp – 3\,5 km
+DESCRIPTION:Uke 9/78 • Grunnform\n5 min rask gange. 3\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w09-d3@trainingplan
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:🚴 Valgfri lett sykkel – 50 min
+DESCRIPTION:Uke 9/78 • Grunnform\n50 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w09-d4@trainingplan
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🏊 Svøm utholdenhet – 1\,1 km
+DESCRIPTION:Uke 9/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w09-d5@trainingplan
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:🚴 Lang sykkel – 25\,0 km
+DESCRIPTION:Uke 9/78 • Grunnform\n25\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w09-d6@trainingplan
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:🏃 Lang rolig – 4\,5 km
+DESCRIPTION:Uke 9/78 • Grunnform\n5 min gange. 4\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w10-d1@trainingplan
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 10/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w10-d2@trainingplan
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:🏃 Rolig løp – 3\,7 km
+DESCRIPTION:Uke 10/78 • Grunnform\n5 min rask gange. 3\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w10-d3@trainingplan
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:🚴 Valgfri lett sykkel – 55 min
+DESCRIPTION:Uke 10/78 • Grunnform\n55 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w10-d4@trainingplan
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🏊 Svøm utholdenhet – 1\,1 km
+DESCRIPTION:Uke 10/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w10-d5@trainingplan
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:🚴 Lang sykkel – 27\,0 km
+DESCRIPTION:Uke 10/78 • Grunnform\n27\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w10-d6@trainingplan
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:🏃 Lang rolig – 4\,8 km
+DESCRIPTION:Uke 10/78 • Grunnform\n5 min gange. 4\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w11-d1@trainingplan
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 11/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w11-d2@trainingplan
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🏃 Rolig løp – 4\,0 km
+DESCRIPTION:Uke 11/78 • Grunnform\n5 min rask gange. 4\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w11-d3@trainingplan
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:🚴 Valgfri lett sykkel – 55 min
+DESCRIPTION:Uke 11/78 • Grunnform\n55 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w11-d4@trainingplan
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
+SUMMARY:🏊 Svøm utholdenhet – 1\,2 km
+DESCRIPTION:Uke 11/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w11-d5@trainingplan
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:🚴 Lang sykkel – 30\,0 km
+DESCRIPTION:Uke 11/78 • Grunnform\n30\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w11-d6@trainingplan
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+SUMMARY:🏃 Lang rolig – 5\,0 km
+DESCRIPTION:Uke 11/78 • Grunnform\n5 min gange. 5\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w12-d1@trainingplan
+DTSTART;VALUE=DATE:20270105
+DTEND;VALUE=DATE:20270106
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 12/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w12-d2@trainingplan
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270107
+SUMMARY:🏃 Rolig løp – 3\,0 km
+DESCRIPTION:Uke 12/78 • Grunnform\n5 min rask gange. 3\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w12-d3@trainingplan
+DTSTART;VALUE=DATE:20270107
+DTEND;VALUE=DATE:20270108
+SUMMARY:🚴 Valgfri lett sykkel – 40 min
+DESCRIPTION:Uke 12/78 • Grunnform\n40 min svært rolig sykling. Dropp økten hvis du er sliten. Dette er en bonusøkt\, ikke en plikt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w12-d4@trainingplan
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
+SUMMARY:🏊 Svøm utholdenhet – 0\,9 km
+DESCRIPTION:Uke 12/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w12-d5@trainingplan
+DTSTART;VALUE=DATE:20270109
+DTEND;VALUE=DATE:20270110
+SUMMARY:🚴 Lang sykkel – 22\,0 km
+DESCRIPTION:Uke 12/78 • Grunnform\n22\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w12-d6@trainingplan
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:🏃 Lang rolig – 4\,0 km
+DESCRIPTION:Uke 12/78 • Grunnform\n5 min gange. 4\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w13-d1@trainingplan
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 13/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w13-d2@trainingplan
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+SUMMARY:🏃 Rolig løp – 2\,5 km
+DESCRIPTION:Uke 13/78 • Grunnform\n5 min rask gange. 2\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w13-d3@trainingplan
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 13/78 • Grunnform\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w13-d4@trainingplan
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:🏊 Svøm utholdenhet – 1\,0 km
+DESCRIPTION:Uke 13/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w13-d5@trainingplan
+DTSTART;VALUE=DATE:20270116
+DTEND;VALUE=DATE:20270117
+SUMMARY:🚴 Lang sykkel – 24\,0 km
+DESCRIPTION:Uke 13/78 • Grunnform\n24\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w13-d6@trainingplan
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+SUMMARY:🏃 Lang rolig – 4\,2 km
+DESCRIPTION:Uke 13/78 • Grunnform\n5 min gange. 4\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w14-d1@trainingplan
+DTSTART;VALUE=DATE:20270119
+DTEND;VALUE=DATE:20270120
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 14/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w14-d2@trainingplan
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+SUMMARY:🏃 Rolig løp – 2\,7 km
+DESCRIPTION:Uke 14/78 • Grunnform\n5 min rask gange. 2\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w14-d3@trainingplan
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270122
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 14/78 • Grunnform\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w14-d4@trainingplan
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270123
+SUMMARY:🏊 Svøm utholdenhet – 1\,1 km
+DESCRIPTION:Uke 14/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w14-d5@trainingplan
+DTSTART;VALUE=DATE:20270123
+DTEND;VALUE=DATE:20270124
+SUMMARY:🚴 Lang sykkel – 26\,0 km
+DESCRIPTION:Uke 14/78 • Grunnform\n26\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w14-d6@trainingplan
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+SUMMARY:🏃 Lang rolig – 4\,5 km
+DESCRIPTION:Uke 14/78 • Grunnform\n5 min gange. 4\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w15-d1@trainingplan
+DTSTART;VALUE=DATE:20270126
+DTEND;VALUE=DATE:20270127
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 15/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w15-d2@trainingplan
+DTSTART;VALUE=DATE:20270127
+DTEND;VALUE=DATE:20270128
+SUMMARY:🏃 Rolig løp – 2\,9 km
+DESCRIPTION:Uke 15/78 • Grunnform\n5 min rask gange. 2\,9 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w15-d3@trainingplan
+DTSTART;VALUE=DATE:20270128
+DTEND;VALUE=DATE:20270129
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 15/78 • Grunnform\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w15-d4@trainingplan
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:🏊 Svøm utholdenhet – 1\,1 km
+DESCRIPTION:Uke 15/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w15-d5@trainingplan
+DTSTART;VALUE=DATE:20270130
+DTEND;VALUE=DATE:20270131
+SUMMARY:🚴 Lang sykkel – 28\,0 km
+DESCRIPTION:Uke 15/78 • Grunnform\n28\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w15-d6@trainingplan
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+SUMMARY:🏃 Lang rolig – 4\,8 km
+DESCRIPTION:Uke 15/78 • Grunnform\n5 min gange. 4\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w16-d1@trainingplan
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 16/78 • Grunnform • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w16-d2@trainingplan
+DTSTART;VALUE=DATE:20270203
+DTEND;VALUE=DATE:20270204
+SUMMARY:🏃 Rolig løp – 2\,3 km
+DESCRIPTION:Uke 16/78 • Grunnform • LETT UKE\n5 min rask gange. 2\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w16-d3@trainingplan
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 16/78 • Grunnform • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w16-d4@trainingplan
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270206
+SUMMARY:🏊 Svøm utholdenhet – 0\,9 km
+DESCRIPTION:Uke 16/78 • Grunnform • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w16-d5@trainingplan
+DTSTART;VALUE=DATE:20270206
+DTEND;VALUE=DATE:20270207
+SUMMARY:🚴 Lang sykkel – 23\,4 km
+DESCRIPTION:Uke 16/78 • Grunnform • LETT UKE\n23\,4 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w16-d6@trainingplan
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+SUMMARY:🏃 Lang rolig – 3\,9 km
+DESCRIPTION:Uke 16/78 • Grunnform • LETT UKE\n5 min gange. 3\,9 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w17-d1@trainingplan
+DTSTART;VALUE=DATE:20270209
+DTEND;VALUE=DATE:20270210
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 17/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w17-d2@trainingplan
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+SUMMARY:🏃 Rolig løp – 3\,1 km
+DESCRIPTION:Uke 17/78 • Grunnform\n5 min rask gange. 3\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w17-d3@trainingplan
+DTSTART;VALUE=DATE:20270211
+DTEND;VALUE=DATE:20270212
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 17/78 • Grunnform\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w17-d4@trainingplan
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270213
+SUMMARY:🏊 Svøm utholdenhet – 1\,2 km
+DESCRIPTION:Uke 17/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w17-d5@trainingplan
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:🚴 Lang sykkel – 30\,8 km
+DESCRIPTION:Uke 17/78 • Grunnform\n30\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w17-d6@trainingplan
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+SUMMARY:🏃 Lang rolig – 5\,2 km
+DESCRIPTION:Uke 17/78 • Grunnform\n5 min gange. 5\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w18-d1@trainingplan
+DTSTART;VALUE=DATE:20270216
+DTEND;VALUE=DATE:20270217
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 18/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w18-d2@trainingplan
+DTSTART;VALUE=DATE:20270217
+DTEND;VALUE=DATE:20270218
+SUMMARY:🏃 Rolig løp – 3\,2 km
+DESCRIPTION:Uke 18/78 • Grunnform\n5 min rask gange. 3\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w18-d3@trainingplan
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 18/78 • Grunnform\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w18-d4@trainingplan
+DTSTART;VALUE=DATE:20270219
+DTEND;VALUE=DATE:20270220
+SUMMARY:🏊 Svøm utholdenhet – 1\,2 km
+DESCRIPTION:Uke 18/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w18-d5@trainingplan
+DTSTART;VALUE=DATE:20270220
+DTEND;VALUE=DATE:20270221
+SUMMARY:🚴 Lang sykkel – 31\,7 km
+DESCRIPTION:Uke 18/78 • Grunnform\n31\,7 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w18-d6@trainingplan
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:🏃 Lang rolig – 5\,3 km
+DESCRIPTION:Uke 18/78 • Grunnform\n5 min gange. 5\,3 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w19-d1@trainingplan
+DTSTART;VALUE=DATE:20270223
+DTEND;VALUE=DATE:20270224
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 19/78 • Grunnform\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w19-d2@trainingplan
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+SUMMARY:🏃 Rolig løp – 3\,3 km
+DESCRIPTION:Uke 19/78 • Grunnform\n5 min rask gange. 3\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w19-d3@trainingplan
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 19/78 • Grunnform\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w19-d4@trainingplan
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:🏊 Svøm utholdenhet – 1\,2 km
+DESCRIPTION:Uke 19/78 • Grunnform\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w19-d5@trainingplan
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+SUMMARY:🚴 Lang sykkel – 32\,5 km
+DESCRIPTION:Uke 19/78 • Grunnform\n32\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w19-d6@trainingplan
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:🏃 Lang rolig – 5\,5 km
+DESCRIPTION:Uke 19/78 • Grunnform\n5 min gange. 5\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w20-d1@trainingplan
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 20/78 • Grunnform • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w20-d2@trainingplan
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+SUMMARY:🏃 Rolig løp – 2\,7 km
+DESCRIPTION:Uke 20/78 • Grunnform • LETT UKE\n5 min rask gange. 2\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w20-d3@trainingplan
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 20/78 • Grunnform • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w20-d4@trainingplan
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270306
+SUMMARY:🏊 Svøm utholdenhet – 1\,0 km
+DESCRIPTION:Uke 20/78 • Grunnform • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w20-d5@trainingplan
+DTSTART;VALUE=DATE:20270306
+DTEND;VALUE=DATE:20270307
+SUMMARY:🚴 Lang sykkel – 26\,0 km
+DESCRIPTION:Uke 20/78 • Grunnform • LETT UKE\n26\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w20-d6@trainingplan
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:🏃 Lang rolig – 4\,4 km
+DESCRIPTION:Uke 20/78 • Grunnform • LETT UKE\n5 min gange. 4\,4 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w21-d1@trainingplan
+DTSTART;VALUE=DATE:20270309
+DTEND;VALUE=DATE:20270310
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 21/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w21-d2@trainingplan
+DTSTART;VALUE=DATE:20270310
+DTEND;VALUE=DATE:20270311
+SUMMARY:🏃 Rolig løp – 3\,5 km
+DESCRIPTION:Uke 21/78 • Base\n5 min rask gange. 3\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w21-d3@trainingplan
+DTSTART;VALUE=DATE:20270311
+DTEND;VALUE=DATE:20270312
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 21/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w21-d4@trainingplan
+DTSTART;VALUE=DATE:20270312
+DTEND;VALUE=DATE:20270313
+SUMMARY:🏊 Svøm utholdenhet – 1\,3 km
+DESCRIPTION:Uke 21/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w21-d5@trainingplan
+DTSTART;VALUE=DATE:20270313
+DTEND;VALUE=DATE:20270314
+SUMMARY:🚴 Lang sykkel – 34\,2 km
+DESCRIPTION:Uke 21/78 • Base\n34\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w21-d6@trainingplan
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:🏃 Lang rolig – 5\,8 km
+DESCRIPTION:Uke 21/78 • Base\n5 min gange. 5\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w22-d1@trainingplan
+DTSTART;VALUE=DATE:20270316
+DTEND;VALUE=DATE:20270317
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 22/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w22-d2@trainingplan
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270318
+SUMMARY:🏃 Rolig løp – 3\,6 km
+DESCRIPTION:Uke 22/78 • Base\n5 min rask gange. 3\,6 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w22-d3@trainingplan
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270319
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 22/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w22-d4@trainingplan
+DTSTART;VALUE=DATE:20270319
+DTEND;VALUE=DATE:20270320
+SUMMARY:🏊 Svøm utholdenhet – 1\,3 km
+DESCRIPTION:Uke 22/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w22-d5@trainingplan
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+SUMMARY:🚴 Lang sykkel – 35\,0 km
+DESCRIPTION:Uke 22/78 • Base\n35\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w22-d6@trainingplan
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:🏃 Lang rolig – 6\,0 km
+DESCRIPTION:Uke 22/78 • Base\n5 min gange. 6\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w23-d1@trainingplan
+DTSTART;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 23/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w23-d2@trainingplan
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+SUMMARY:🏃 Rolig løp – 3\,7 km
+DESCRIPTION:Uke 23/78 • Base\n5 min rask gange. 3\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w23-d3@trainingplan
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 23/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w23-d4@trainingplan
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270327
+SUMMARY:🏊 Svøm utholdenhet – 1\,3 km
+DESCRIPTION:Uke 23/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w23-d5@trainingplan
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+SUMMARY:🚴 Lang sykkel – 35\,8 km
+DESCRIPTION:Uke 23/78 • Base\n35\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w23-d6@trainingplan
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+SUMMARY:🏃 Lang rolig – 6\,2 km
+DESCRIPTION:Uke 23/78 • Base\n5 min gange. 6\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w24-d1@trainingplan
+DTSTART;VALUE=DATE:20270330
+DTEND;VALUE=DATE:20270331
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 24/78 • Base • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w24-d2@trainingplan
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:🏃 Rolig løp – 3\,0 km
+DESCRIPTION:Uke 24/78 • Base • LETT UKE\n5 min rask gange. 3\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w24-d3@trainingplan
+DTSTART;VALUE=DATE:20270401
+DTEND;VALUE=DATE:20270402
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 24/78 • Base • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w24-d4@trainingplan
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+SUMMARY:🏊 Svøm utholdenhet – 1\,0 km
+DESCRIPTION:Uke 24/78 • Base • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w24-d5@trainingplan
+DTSTART;VALUE=DATE:20270403
+DTEND;VALUE=DATE:20270404
+SUMMARY:🚴 Lang sykkel – 28\,6 km
+DESCRIPTION:Uke 24/78 • Base • LETT UKE\n28\,6 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w24-d6@trainingplan
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:🏃 Lang rolig – 4\,9 km
+DESCRIPTION:Uke 24/78 • Base • LETT UKE\n5 min gange. 4\,9 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w25-d1@trainingplan
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 25/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w25-d2@trainingplan
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+SUMMARY:🏃 Rolig løp – 3\,9 km
+DESCRIPTION:Uke 25/78 • Base\n5 min rask gange. 3\,9 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w25-d3@trainingplan
+DTSTART;VALUE=DATE:20270408
+DTEND;VALUE=DATE:20270409
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 25/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w25-d4@trainingplan
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270410
+SUMMARY:🏊 Svøm utholdenhet – 1\,3 km
+DESCRIPTION:Uke 25/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w25-d5@trainingplan
+DTSTART;VALUE=DATE:20270410
+DTEND;VALUE=DATE:20270411
+SUMMARY:🚴 Lang sykkel – 37\,5 km
+DESCRIPTION:Uke 25/78 • Base\n37\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w25-d6@trainingplan
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:🏃 Lang rolig – 6\,5 km
+DESCRIPTION:Uke 25/78 • Base\n5 min gange. 6\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w26-d1@trainingplan
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270414
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 26/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w26-d2@trainingplan
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+SUMMARY:🏃 Rolig løp – 4\,0 km
+DESCRIPTION:Uke 26/78 • Base\n5 min rask gange. 4\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w26-d3@trainingplan
+DTSTART;VALUE=DATE:20270415
+DTEND;VALUE=DATE:20270416
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 26/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w26-d4@trainingplan
+DTSTART;VALUE=DATE:20270416
+DTEND;VALUE=DATE:20270417
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 26/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w26-d5@trainingplan
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:🚴 Lang sykkel – 38\,3 km
+DESCRIPTION:Uke 26/78 • Base\n38\,3 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w26-d6@trainingplan
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:🏃 Lang rolig – 6\,7 km
+DESCRIPTION:Uke 26/78 • Base\n5 min gange. 6\,7 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w27-d1@trainingplan
+DTSTART;VALUE=DATE:20270420
+DTEND;VALUE=DATE:20270421
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 27/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w27-d2@trainingplan
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+SUMMARY:🏃 Rolig løp – 4\,1 km
+DESCRIPTION:Uke 27/78 • Base\n5 min rask gange. 4\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w27-d3@trainingplan
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 27/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w27-d4@trainingplan
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 27/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w27-d5@trainingplan
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+SUMMARY:🚴 Lang sykkel – 39\,2 km
+DESCRIPTION:Uke 27/78 • Base\n39\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w27-d6@trainingplan
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:🏃 Lang rolig – 6\,8 km
+DESCRIPTION:Uke 27/78 • Base\n5 min gange. 6\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w28-d1@trainingplan
+DTSTART;VALUE=DATE:20270427
+DTEND;VALUE=DATE:20270428
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 28/78 • Base • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w28-d2@trainingplan
+DTSTART;VALUE=DATE:20270428
+DTEND;VALUE=DATE:20270429
+SUMMARY:🏃 Rolig løp – 3\,3 km
+DESCRIPTION:Uke 28/78 • Base • LETT UKE\n5 min rask gange. 3\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w28-d3@trainingplan
+DTSTART;VALUE=DATE:20270429
+DTEND;VALUE=DATE:20270430
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 28/78 • Base • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w28-d4@trainingplan
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:🏊 Svøm utholdenhet – 1\,1 km
+DESCRIPTION:Uke 28/78 • Base • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w28-d5@trainingplan
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:🚴 Lang sykkel – 31\,2 km
+DESCRIPTION:Uke 28/78 • Base • LETT UKE\n31\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w28-d6@trainingplan
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:🏃 Lang rolig – 5\,5 km
+DESCRIPTION:Uke 28/78 • Base • LETT UKE\n5 min gange. 5\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w29-d1@trainingplan
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 29/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w29-d2@trainingplan
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270506
+SUMMARY:🏃 Rolig løp – 4\,3 km
+DESCRIPTION:Uke 29/78 • Base\n5 min rask gange. 4\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w29-d3@trainingplan
+DTSTART;VALUE=DATE:20270506
+DTEND;VALUE=DATE:20270507
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 29/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w29-d4@trainingplan
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270508
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 29/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w29-d5@trainingplan
+DTSTART;VALUE=DATE:20270508
+DTEND;VALUE=DATE:20270509
+SUMMARY:🚴 Lang sykkel – 40\,8 km + 🏃 1\,4 km
+DESCRIPTION:Uke 29/78 • Base\n40\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,4 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w29-d6@trainingplan
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:🏃 Lang rolig – 7\,2 km
+DESCRIPTION:Uke 29/78 • Base\n5 min gange. 7\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w30-d1@trainingplan
+DTSTART;VALUE=DATE:20270511
+DTEND;VALUE=DATE:20270512
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 30/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w30-d2@trainingplan
+DTSTART;VALUE=DATE:20270512
+DTEND;VALUE=DATE:20270513
+SUMMARY:🏃 Rolig løp – 4\,4 km
+DESCRIPTION:Uke 30/78 • Base\n5 min rask gange. 4\,4 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w30-d3@trainingplan
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270514
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 30/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w30-d4@trainingplan
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 30/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w30-d5@trainingplan
+DTSTART;VALUE=DATE:20270515
+DTEND;VALUE=DATE:20270516
+SUMMARY:🚴 Lang sykkel – 41\,7 km + 🏃 1\,5 km
+DESCRIPTION:Uke 30/78 • Base\n41\,7 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,5 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w30-d6@trainingplan
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:🏃 Lang rolig – 7\,3 km
+DESCRIPTION:Uke 30/78 • Base\n5 min gange. 7\,3 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w31-d1@trainingplan
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 31/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w31-d2@trainingplan
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:🏃 Rolig løp – 4\,5 km
+DESCRIPTION:Uke 31/78 • Base\n5 min rask gange. 4\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w31-d3@trainingplan
+DTSTART;VALUE=DATE:20270520
+DTEND;VALUE=DATE:20270521
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 31/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w31-d4@trainingplan
+DTSTART;VALUE=DATE:20270521
+DTEND;VALUE=DATE:20270522
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 31/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w31-d5@trainingplan
+DTSTART;VALUE=DATE:20270522
+DTEND;VALUE=DATE:20270523
+SUMMARY:🚴 Lang sykkel – 42\,5 km + 🏃 1\,5 km
+DESCRIPTION:Uke 31/78 • Base\n42\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,5 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w31-d6@trainingplan
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:🏃 Lang rolig – 7\,5 km
+DESCRIPTION:Uke 31/78 • Base\n5 min gange. 7\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w32-d1@trainingplan
+DTSTART;VALUE=DATE:20270525
+DTEND;VALUE=DATE:20270526
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 32/78 • Base • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w32-d2@trainingplan
+DTSTART;VALUE=DATE:20270526
+DTEND;VALUE=DATE:20270527
+SUMMARY:🏃 Rolig løp – 3\,6 km
+DESCRIPTION:Uke 32/78 • Base • LETT UKE\n5 min rask gange. 3\,6 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w32-d3@trainingplan
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 32/78 • Base • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w32-d4@trainingplan
+DTSTART;VALUE=DATE:20270528
+DTEND;VALUE=DATE:20270529
+SUMMARY:🏊 Svøm utholdenhet – 1\,1 km
+DESCRIPTION:Uke 32/78 • Base • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w32-d5@trainingplan
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+SUMMARY:🚴 Lang sykkel – 33\,8 km + 🏃 1\,2 km
+DESCRIPTION:Uke 32/78 • Base • LETT UKE\n33\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,2 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w32-d6@trainingplan
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:🏃 Lang rolig – 6\,0 km
+DESCRIPTION:Uke 32/78 • Base • LETT UKE\n5 min gange. 6\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w33-d1@trainingplan
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270602
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 33/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w33-d2@trainingplan
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270603
+SUMMARY:🏃 Rolig løp – 4\,7 km
+DESCRIPTION:Uke 33/78 • Base\n5 min rask gange. 4\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w33-d3@trainingplan
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 33/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w33-d4@trainingplan
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:🏊 Svøm utholdenhet – 1\,5 km
+DESCRIPTION:Uke 33/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w33-d5@trainingplan
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+SUMMARY:🚴 Lang sykkel – 44\,2 km + 🏃 1\,6 km
+DESCRIPTION:Uke 33/78 • Base\n44\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,6 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w33-d6@trainingplan
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:🏃 Lang rolig – 7\,8 km
+DESCRIPTION:Uke 33/78 • Base\n5 min gange. 7\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w34-d1@trainingplan
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 34/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w34-d2@trainingplan
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:🏃 Rolig løp – 4\,8 km
+DESCRIPTION:Uke 34/78 • Base\n5 min rask gange. 4\,8 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w34-d3@trainingplan
+DTSTART;VALUE=DATE:20270610
+DTEND;VALUE=DATE:20270611
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 34/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w34-d4@trainingplan
+DTSTART;VALUE=DATE:20270611
+DTEND;VALUE=DATE:20270612
+SUMMARY:🏊 Svøm utholdenhet – 1\,5 km
+DESCRIPTION:Uke 34/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w34-d5@trainingplan
+DTSTART;VALUE=DATE:20270612
+DTEND;VALUE=DATE:20270613
+SUMMARY:🚴 Lang sykkel – 45\,0 km + 🏃 1\,6 km
+DESCRIPTION:Uke 34/78 • Base\n45\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,6 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w34-d6@trainingplan
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:🏃 Lang rolig – 8\,0 km
+DESCRIPTION:Uke 34/78 • Base\n5 min gange. 8\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w35-d1@trainingplan
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 35/78 • Base\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w35-d2@trainingplan
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270617
+SUMMARY:🏃 Rolig løp – 4\,9 km
+DESCRIPTION:Uke 35/78 • Base\n5 min rask gange. 4\,9 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w35-d3@trainingplan
+DTSTART;VALUE=DATE:20270617
+DTEND;VALUE=DATE:20270618
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 35/78 • Base\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w35-d4@trainingplan
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
+SUMMARY:🏊 Svøm utholdenhet – 1\,5 km
+DESCRIPTION:Uke 35/78 • Base\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w35-d5@trainingplan
+DTSTART;VALUE=DATE:20270619
+DTEND;VALUE=DATE:20270620
+SUMMARY:🚴 Lang sykkel – 45\,8 km + 🏃 1\,6 km
+DESCRIPTION:Uke 35/78 • Base\n45\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,6 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w35-d6@trainingplan
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:🏃 Lang rolig – 8\,2 km
+DESCRIPTION:Uke 35/78 • Base\n5 min gange. 8\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w36-d1@trainingplan
+DTSTART;VALUE=DATE:20270622
+DTEND;VALUE=DATE:20270623
+SUMMARY:🏊 Svøm teknikk – 0\,8 km
+DESCRIPTION:Uke 36/78 • Base • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w36-d2@trainingplan
+DTSTART;VALUE=DATE:20270623
+DTEND;VALUE=DATE:20270624
+SUMMARY:🏃 Rolig løp – 3\,9 km
+DESCRIPTION:Uke 36/78 • Base • LETT UKE\n5 min rask gange. 3\,9 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w36-d3@trainingplan
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 36/78 • Base • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w36-d4@trainingplan
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:🏊 Svøm utholdenhet – 1\,2 km
+DESCRIPTION:Uke 36/78 • Base • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w36-d5@trainingplan
+DTSTART;VALUE=DATE:20270626
+DTEND;VALUE=DATE:20270627
+SUMMARY:🚴 Lang sykkel – 36\,4 km + 🏃 1\,3 km
+DESCRIPTION:Uke 36/78 • Base • LETT UKE\n36\,4 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,3 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w36-d6@trainingplan
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:🏃 Lang rolig – 6\,5 km
+DESCRIPTION:Uke 36/78 • Base • LETT UKE\n5 min gange. 6\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w37-d1@trainingplan
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 37/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w37-d2@trainingplan
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:🏃 Rolig løp – 5\,1 km
+DESCRIPTION:Uke 37/78 • Bygge\n5 min rask gange. 5\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w37-d3@trainingplan
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270702
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 37/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w37-d4@trainingplan
+DTSTART;VALUE=DATE:20270702
+DTEND;VALUE=DATE:20270703
+SUMMARY:🏊 Svøm utholdenhet – 1\,6 km
+DESCRIPTION:Uke 37/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w37-d5@trainingplan
+DTSTART;VALUE=DATE:20270703
+DTEND;VALUE=DATE:20270704
+SUMMARY:🚴 Lang sykkel – 47\,5 km + 🏃 1\,7 km
+DESCRIPTION:Uke 37/78 • Bygge\n47\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,7 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w37-d6@trainingplan
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:🏃 Lang rolig – 8\,5 km
+DESCRIPTION:Uke 37/78 • Bygge\n5 min gange. 8\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w38-d1@trainingplan
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 38/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w38-d2@trainingplan
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270708
+SUMMARY:🏃 Rolig løp – 5\,2 km
+DESCRIPTION:Uke 38/78 • Bygge\n5 min rask gange. 5\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w38-d3@trainingplan
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 38/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w38-d4@trainingplan
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:🏊 Svøm utholdenhet – 1\,6 km
+DESCRIPTION:Uke 38/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w38-d5@trainingplan
+DTSTART;VALUE=DATE:20270710
+DTEND;VALUE=DATE:20270711
+SUMMARY:🚴 Lang sykkel – 48\,3 km + 🏃 1\,7 km
+DESCRIPTION:Uke 38/78 • Bygge\n48\,3 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,7 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w38-d6@trainingplan
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:🏃 Lang rolig – 8\,7 km
+DESCRIPTION:Uke 38/78 • Bygge\n5 min gange. 8\,7 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w39-d1@trainingplan
+DTSTART;VALUE=DATE:20270713
+DTEND;VALUE=DATE:20270714
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 39/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w39-d2@trainingplan
+DTSTART;VALUE=DATE:20270714
+DTEND;VALUE=DATE:20270715
+SUMMARY:🏃 Rolig løp – 5\,3 km
+DESCRIPTION:Uke 39/78 • Bygge\n5 min rask gange. 5\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w39-d3@trainingplan
+DTSTART;VALUE=DATE:20270715
+DTEND;VALUE=DATE:20270716
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 39/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w39-d4@trainingplan
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+SUMMARY:🏊 Svøm utholdenhet – 1\,6 km
+DESCRIPTION:Uke 39/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w39-d5@trainingplan
+DTSTART;VALUE=DATE:20270717
+DTEND;VALUE=DATE:20270718
+SUMMARY:🚴 Lang sykkel – 49\,2 km + 🏃 1\,8 km
+DESCRIPTION:Uke 39/78 • Bygge\n49\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,8 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w39-d6@trainingplan
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:🏃 Lang rolig – 8\,8 km
+DESCRIPTION:Uke 39/78 • Bygge\n5 min gange. 8\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w40-d1@trainingplan
+DTSTART;VALUE=DATE:20270720
+DTEND;VALUE=DATE:20270721
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 40/78 • Bygge • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w40-d2@trainingplan
+DTSTART;VALUE=DATE:20270721
+DTEND;VALUE=DATE:20270722
+SUMMARY:🏃 Rolig løp – 4\,2 km
+DESCRIPTION:Uke 40/78 • Bygge • LETT UKE\n5 min rask gange. 4\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w40-d3@trainingplan
+DTSTART;VALUE=DATE:20270722
+DTEND;VALUE=DATE:20270723
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 40/78 • Bygge • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w40-d4@trainingplan
+DTSTART;VALUE=DATE:20270723
+DTEND;VALUE=DATE:20270724
+SUMMARY:🏊 Svøm utholdenhet – 1\,2 km
+DESCRIPTION:Uke 40/78 • Bygge • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w40-d5@trainingplan
+DTSTART;VALUE=DATE:20270724
+DTEND;VALUE=DATE:20270725
+SUMMARY:🚴 Lang sykkel – 39\,0 km + 🏃 1\,4 km
+DESCRIPTION:Uke 40/78 • Bygge • LETT UKE\n39\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,4 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w40-d6@trainingplan
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:🏃 Lang rolig – 7\,0 km
+DESCRIPTION:Uke 40/78 • Bygge • LETT UKE\n5 min gange. 7\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w41-d1@trainingplan
+DTSTART;VALUE=DATE:20270727
+DTEND;VALUE=DATE:20270728
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 41/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w41-d2@trainingplan
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+SUMMARY:🏃 Rolig løp – 5\,5 km
+DESCRIPTION:Uke 41/78 • Bygge\n5 min rask gange. 5\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w41-d3@trainingplan
+DTSTART;VALUE=DATE:20270729
+DTEND;VALUE=DATE:20270730
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 41/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w41-d4@trainingplan
+DTSTART;VALUE=DATE:20270730
+DTEND;VALUE=DATE:20270731
+SUMMARY:🏊 Svøm utholdenhet – 1\,6 km
+DESCRIPTION:Uke 41/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w41-d5@trainingplan
+DTSTART;VALUE=DATE:20270731
+DTEND;VALUE=DATE:20270801
+SUMMARY:🚴 Lang sykkel – 51\,0 km + 🏃 1\,9 km
+DESCRIPTION:Uke 41/78 • Bygge\n51\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,9 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w41-d6@trainingplan
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:🏃 Lang rolig – 9\,2 km
+DESCRIPTION:Uke 41/78 • Bygge\n5 min gange. 9\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w42-d1@trainingplan
+DTSTART;VALUE=DATE:20270803
+DTEND;VALUE=DATE:20270804
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 42/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w42-d2@trainingplan
+DTSTART;VALUE=DATE:20270804
+DTEND;VALUE=DATE:20270805
+SUMMARY:🏃 Rolig løp – 5\,7 km
+DESCRIPTION:Uke 42/78 • Bygge\n5 min rask gange. 5\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w42-d3@trainingplan
+DTSTART;VALUE=DATE:20270805
+DTEND;VALUE=DATE:20270806
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 42/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w42-d4@trainingplan
+DTSTART;VALUE=DATE:20270806
+DTEND;VALUE=DATE:20270807
+SUMMARY:🏊 Svøm utholdenhet – 1\,6 km
+DESCRIPTION:Uke 42/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w42-d5@trainingplan
+DTSTART;VALUE=DATE:20270807
+DTEND;VALUE=DATE:20270808
+SUMMARY:🚴 Lang sykkel – 52\,0 km + 🏃 1\,9 km
+DESCRIPTION:Uke 42/78 • Bygge\n52\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,9 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w42-d6@trainingplan
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270809
+SUMMARY:🏃 Lang rolig – 9\,5 km
+DESCRIPTION:Uke 42/78 • Bygge\n5 min gange. 9\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w43-d1@trainingplan
+DTSTART;VALUE=DATE:20270810
+DTEND;VALUE=DATE:20270811
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 43/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w43-d2@trainingplan
+DTSTART;VALUE=DATE:20270811
+DTEND;VALUE=DATE:20270812
+SUMMARY:🏃 Rolig løp – 5\,8 km
+DESCRIPTION:Uke 43/78 • Bygge\n5 min rask gange. 5\,8 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w43-d3@trainingplan
+DTSTART;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 43/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w43-d4@trainingplan
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270814
+SUMMARY:🏊 Svøm utholdenhet – 1\,7 km
+DESCRIPTION:Uke 43/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w43-d5@trainingplan
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:🚴 Lang sykkel – 53\,0 km + 🏃 2\,0 km
+DESCRIPTION:Uke 43/78 • Bygge\n53\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,0 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w43-d6@trainingplan
+DTSTART;VALUE=DATE:20270815
+DTEND;VALUE=DATE:20270816
+SUMMARY:🏃 Lang rolig – 9\,8 km
+DESCRIPTION:Uke 43/78 • Bygge\n5 min gange. 9\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w44-d1@trainingplan
+DTSTART;VALUE=DATE:20270817
+DTEND;VALUE=DATE:20270818
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 44/78 • Bygge • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w44-d2@trainingplan
+DTSTART;VALUE=DATE:20270818
+DTEND;VALUE=DATE:20270819
+SUMMARY:🏃 Rolig løp – 4\,7 km
+DESCRIPTION:Uke 44/78 • Bygge • LETT UKE\n5 min rask gange. 4\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w44-d3@trainingplan
+DTSTART;VALUE=DATE:20270819
+DTEND;VALUE=DATE:20270820
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 44/78 • Bygge • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w44-d4@trainingplan
+DTSTART;VALUE=DATE:20270820
+DTEND;VALUE=DATE:20270821
+SUMMARY:🏊 Svøm utholdenhet – 1\,3 km
+DESCRIPTION:Uke 44/78 • Bygge • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w44-d5@trainingplan
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:🚴 Lang sykkel – 42\,1 km + 🏃 1\,6 km
+DESCRIPTION:Uke 44/78 • Bygge • LETT UKE\n42\,1 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,6 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w44-d6@trainingplan
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:🏃 Lang rolig – 7\,8 km
+DESCRIPTION:Uke 44/78 • Bygge • LETT UKE\n5 min gange. 7\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w45-d1@trainingplan
+DTSTART;VALUE=DATE:20270824
+DTEND;VALUE=DATE:20270825
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 45/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w45-d2@trainingplan
+DTSTART;VALUE=DATE:20270825
+DTEND;VALUE=DATE:20270826
+SUMMARY:🏃 Rolig løp – 6\,1 km
+DESCRIPTION:Uke 45/78 • Bygge\n5 min rask gange. 6\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w45-d3@trainingplan
+DTSTART;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270827
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 45/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w45-d4@trainingplan
+DTSTART;VALUE=DATE:20270827
+DTEND;VALUE=DATE:20270828
+SUMMARY:🏊 Svøm utholdenhet – 1\,7 km
+DESCRIPTION:Uke 45/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w45-d5@trainingplan
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:🚴 Lang sykkel – 55\,0 km + 🏃 2\,1 km
+DESCRIPTION:Uke 45/78 • Bygge\n55\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,1 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w45-d6@trainingplan
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
+SUMMARY:🏃 Lang rolig – 10\,2 km
+DESCRIPTION:Uke 45/78 • Bygge\n5 min gange. 10\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w46-d1@trainingplan
+DTSTART;VALUE=DATE:20270831
+DTEND;VALUE=DATE:20270901
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 46/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w46-d2@trainingplan
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+SUMMARY:🏃 Rolig løp – 6\,3 km
+DESCRIPTION:Uke 46/78 • Bygge\n5 min rask gange. 6\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w46-d3@trainingplan
+DTSTART;VALUE=DATE:20270902
+DTEND;VALUE=DATE:20270903
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 46/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w46-d4@trainingplan
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270904
+SUMMARY:🏊 Svøm utholdenhet – 1\,7 km
+DESCRIPTION:Uke 46/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w46-d5@trainingplan
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270905
+SUMMARY:🚴 Lang sykkel – 56\,0 km + 🏃 2\,1 km
+DESCRIPTION:Uke 46/78 • Bygge\n56\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,1 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w46-d6@trainingplan
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:🏃 Lang rolig – 10\,5 km
+DESCRIPTION:Uke 46/78 • Bygge\n5 min gange. 10\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w47-d1@trainingplan
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 47/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w47-d2@trainingplan
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:🏃 Rolig løp – 6\,5 km
+DESCRIPTION:Uke 47/78 • Bygge\n5 min rask gange. 6\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w47-d3@trainingplan
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 47/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w47-d4@trainingplan
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:🏊 Svøm utholdenhet – 1\,7 km
+DESCRIPTION:Uke 47/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w47-d5@trainingplan
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:🚴 Lang sykkel – 57\,0 km + 🏃 2\,1 km
+DESCRIPTION:Uke 47/78 • Bygge\n57\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,1 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w47-d6@trainingplan
+DTSTART;VALUE=DATE:20270912
+DTEND;VALUE=DATE:20270913
+SUMMARY:🏃 Lang rolig – 10\,8 km
+DESCRIPTION:Uke 47/78 • Bygge\n5 min gange. 10\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w48-d1@trainingplan
+DTSTART;VALUE=DATE:20270914
+DTEND;VALUE=DATE:20270915
+SUMMARY:🏊 Svøm teknikk – 0\,9 km
+DESCRIPTION:Uke 48/78 • Bygge • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w48-d2@trainingplan
+DTSTART;VALUE=DATE:20270915
+DTEND;VALUE=DATE:20270916
+SUMMARY:🏃 Rolig løp – 5\,1 km
+DESCRIPTION:Uke 48/78 • Bygge • LETT UKE\n5 min rask gange. 5\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w48-d3@trainingplan
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 48/78 • Bygge • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w48-d4@trainingplan
+DTSTART;VALUE=DATE:20270917
+DTEND;VALUE=DATE:20270918
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 48/78 • Bygge • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w48-d5@trainingplan
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+SUMMARY:🚴 Lang sykkel – 45\,2 km + 🏃 1\,7 km
+DESCRIPTION:Uke 48/78 • Bygge • LETT UKE\n45\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,7 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w48-d6@trainingplan
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:🏃 Lang rolig – 8\,6 km
+DESCRIPTION:Uke 48/78 • Bygge • LETT UKE\n5 min gange. 8\,6 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w49-d1@trainingplan
+DTSTART;VALUE=DATE:20270921
+DTEND;VALUE=DATE:20270922
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 49/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w49-d2@trainingplan
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270923
+SUMMARY:🏃 Rolig løp – 6\,8 km
+DESCRIPTION:Uke 49/78 • Bygge\n5 min rask gange. 6\,8 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w49-d3@trainingplan
+DTSTART;VALUE=DATE:20270923
+DTEND;VALUE=DATE:20270924
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 49/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w49-d4@trainingplan
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270925
+SUMMARY:🏊 Svøm utholdenhet – 1\,8 km
+DESCRIPTION:Uke 49/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w49-d5@trainingplan
+DTSTART;VALUE=DATE:20270925
+DTEND;VALUE=DATE:20270926
+SUMMARY:🚴 Lang sykkel – 59\,0 km + 🏃 2\,2 km
+DESCRIPTION:Uke 49/78 • Bygge\n59\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,2 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w49-d6@trainingplan
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:🏃 Lang rolig – 11\,2 km
+DESCRIPTION:Uke 49/78 • Bygge\n5 min gange. 11\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w50-d1@trainingplan
+DTSTART;VALUE=DATE:20270928
+DTEND;VALUE=DATE:20270929
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 50/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w50-d2@trainingplan
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20270930
+SUMMARY:🏃 Rolig løp – 6\,9 km
+DESCRIPTION:Uke 50/78 • Bygge\n5 min rask gange. 6\,9 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w50-d3@trainingplan
+DTSTART;VALUE=DATE:20270930
+DTEND;VALUE=DATE:20271001
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 50/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w50-d4@trainingplan
+DTSTART;VALUE=DATE:20271001
+DTEND;VALUE=DATE:20271002
+SUMMARY:🏊 Svøm utholdenhet – 1\,8 km
+DESCRIPTION:Uke 50/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w50-d5@trainingplan
+DTSTART;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271003
+SUMMARY:🚴 Lang sykkel – 60\,0 km + 🏃 2\,3 km
+DESCRIPTION:Uke 50/78 • Bygge\n60\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,3 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w50-d6@trainingplan
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:🏃 Lang rolig – 11\,5 km
+DESCRIPTION:Uke 50/78 • Bygge\n5 min gange. 11\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w51-d1@trainingplan
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 51/78 • Bygge\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w51-d2@trainingplan
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271007
+SUMMARY:🏃 Rolig løp – 7\,0 km
+DESCRIPTION:Uke 51/78 • Bygge\n5 min rask gange. 7\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w51-d3@trainingplan
+DTSTART;VALUE=DATE:20271007
+DTEND;VALUE=DATE:20271008
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 51/78 • Bygge\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w51-d4@trainingplan
+DTSTART;VALUE=DATE:20271008
+DTEND;VALUE=DATE:20271009
+SUMMARY:🏊 Svøm utholdenhet – 1\,8 km
+DESCRIPTION:Uke 51/78 • Bygge\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w51-d5@trainingplan
+DTSTART;VALUE=DATE:20271009
+DTEND;VALUE=DATE:20271010
+SUMMARY:🚴 Lang sykkel – 61\,0 km + 🏃 2\,4 km
+DESCRIPTION:Uke 51/78 • Bygge\n61\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,4 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w51-d6@trainingplan
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:🏃 Lang rolig – 11\,8 km
+DESCRIPTION:Uke 51/78 • Bygge\n5 min gange. 11\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w52-d1@trainingplan
+DTSTART;VALUE=DATE:20271012
+DTEND;VALUE=DATE:20271013
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 52/78 • Bygge • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w52-d2@trainingplan
+DTSTART;VALUE=DATE:20271013
+DTEND;VALUE=DATE:20271014
+SUMMARY:🏃 Rolig løp – 5\,6 km
+DESCRIPTION:Uke 52/78 • Bygge • LETT UKE\n5 min rask gange. 5\,6 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w52-d3@trainingplan
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 52/78 • Bygge • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w52-d4@trainingplan
+DTSTART;VALUE=DATE:20271015
+DTEND;VALUE=DATE:20271016
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 52/78 • Bygge • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w52-d5@trainingplan
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+SUMMARY:🚴 Lang sykkel – 48\,4 km + 🏃 1\,9 km
+DESCRIPTION:Uke 52/78 • Bygge • LETT UKE\n48\,4 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,9 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w52-d6@trainingplan
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:🏃 Lang rolig – 9\,4 km
+DESCRIPTION:Uke 52/78 • Bygge • LETT UKE\n5 min gange. 9\,4 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w53-d1@trainingplan
+DTSTART;VALUE=DATE:20271019
+DTEND;VALUE=DATE:20271020
+SUMMARY:🏊 Svøm teknikk – 1\,3 km
+DESCRIPTION:Uke 53/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w53-d2@trainingplan
+DTSTART;VALUE=DATE:20271020
+DTEND;VALUE=DATE:20271021
+SUMMARY:🏃 Rolig løp – 7\,3 km
+DESCRIPTION:Uke 53/78 • Triatlonbygg\n5 min rask gange. 7\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w53-d3@trainingplan
+DTSTART;VALUE=DATE:20271021
+DTEND;VALUE=DATE:20271022
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 53/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w53-d4@trainingplan
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+SUMMARY:🏊 Svøm utholdenhet – 1\,8 km
+DESCRIPTION:Uke 53/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w53-d5@trainingplan
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+SUMMARY:🚴 Lang sykkel – 63\,1 km + 🏃 2\,5 km
+DESCRIPTION:Uke 53/78 • Triatlonbygg\n63\,1 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,5 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w53-d6@trainingplan
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:🏃 Lang rolig – 12\,2 km
+DESCRIPTION:Uke 53/78 • Triatlonbygg\n5 min gange. 12\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w54-d1@trainingplan
+DTSTART;VALUE=DATE:20271026
+DTEND;VALUE=DATE:20271027
+SUMMARY:🏊 Svøm teknikk – 1\,3 km
+DESCRIPTION:Uke 54/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w54-d2@trainingplan
+DTSTART;VALUE=DATE:20271027
+DTEND;VALUE=DATE:20271028
+SUMMARY:🏃 Rolig løp – 7\,5 km
+DESCRIPTION:Uke 54/78 • Triatlonbygg\n5 min rask gange. 7\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w54-d3@trainingplan
+DTSTART;VALUE=DATE:20271028
+DTEND;VALUE=DATE:20271029
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 54/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w54-d4@trainingplan
+DTSTART;VALUE=DATE:20271029
+DTEND;VALUE=DATE:20271030
+SUMMARY:🏊 Svøm utholdenhet – 1\,8 km
+DESCRIPTION:Uke 54/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w54-d5@trainingplan
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:🚴 Lang sykkel – 64\,2 km + 🏃 2\,5 km
+DESCRIPTION:Uke 54/78 • Triatlonbygg\n64\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,5 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w54-d6@trainingplan
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:🏃 Lang rolig – 12\,5 km
+DESCRIPTION:Uke 54/78 • Triatlonbygg\n5 min gange. 12\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w55-d1@trainingplan
+DTSTART;VALUE=DATE:20271102
+DTEND;VALUE=DATE:20271103
+SUMMARY:🏊 Svøm teknikk – 1\,3 km
+DESCRIPTION:Uke 55/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w55-d2@trainingplan
+DTSTART;VALUE=DATE:20271103
+DTEND;VALUE=DATE:20271104
+SUMMARY:🏃 Rolig løp – 7\,6 km
+DESCRIPTION:Uke 55/78 • Triatlonbygg\n5 min rask gange. 7\,6 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w55-d3@trainingplan
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271105
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 55/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w55-d4@trainingplan
+DTSTART;VALUE=DATE:20271105
+DTEND;VALUE=DATE:20271106
+SUMMARY:🏊 Svøm utholdenhet – 1\,9 km
+DESCRIPTION:Uke 55/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w55-d5@trainingplan
+DTSTART;VALUE=DATE:20271106
+DTEND;VALUE=DATE:20271107
+SUMMARY:🚴 Lang sykkel – 65\,2 km + 🏃 2\,6 km
+DESCRIPTION:Uke 55/78 • Triatlonbygg\n65\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,6 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w55-d6@trainingplan
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:🏃 Lang rolig – 12\,8 km
+DESCRIPTION:Uke 55/78 • Triatlonbygg\n5 min gange. 12\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w56-d1@trainingplan
+DTSTART;VALUE=DATE:20271109
+DTEND;VALUE=DATE:20271110
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 56/78 • Triatlonbygg • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w56-d2@trainingplan
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:🏃 Rolig løp – 6\,1 km
+DESCRIPTION:Uke 56/78 • Triatlonbygg • LETT UKE\n5 min rask gange. 6\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w56-d3@trainingplan
+DTSTART;VALUE=DATE:20271111
+DTEND;VALUE=DATE:20271112
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 56/78 • Triatlonbygg • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w56-d4@trainingplan
+DTSTART;VALUE=DATE:20271112
+DTEND;VALUE=DATE:20271113
+SUMMARY:🏊 Svøm utholdenhet – 1\,5 km
+DESCRIPTION:Uke 56/78 • Triatlonbygg • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w56-d5@trainingplan
+DTSTART;VALUE=DATE:20271113
+DTEND;VALUE=DATE:20271114
+SUMMARY:🚴 Lang sykkel – 51\,7 km + 🏃 2\,0 km
+DESCRIPTION:Uke 56/78 • Triatlonbygg • LETT UKE\n51\,7 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,0 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w56-d6@trainingplan
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:🏃 Lang rolig – 10\,1 km
+DESCRIPTION:Uke 56/78 • Triatlonbygg • LETT UKE\n5 min gange. 10\,1 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w57-d1@trainingplan
+DTSTART;VALUE=DATE:20271116
+DTEND;VALUE=DATE:20271117
+SUMMARY:🏊 Svøm teknikk – 1\,3 km
+DESCRIPTION:Uke 57/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w57-d2@trainingplan
+DTSTART;VALUE=DATE:20271117
+DTEND;VALUE=DATE:20271118
+SUMMARY:🏃 Rolig løp – 7\,9 km
+DESCRIPTION:Uke 57/78 • Triatlonbygg\n5 min rask gange. 7\,9 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w57-d3@trainingplan
+DTSTART;VALUE=DATE:20271118
+DTEND;VALUE=DATE:20271119
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 57/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w57-d4@trainingplan
+DTSTART;VALUE=DATE:20271119
+DTEND;VALUE=DATE:20271120
+SUMMARY:🏊 Svøm utholdenhet – 1\,9 km
+DESCRIPTION:Uke 57/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w57-d5@trainingplan
+DTSTART;VALUE=DATE:20271120
+DTEND;VALUE=DATE:20271121
+SUMMARY:🚴 Lang sykkel – 67\,4 km + 🏃 2\,7 km
+DESCRIPTION:Uke 57/78 • Triatlonbygg\n67\,4 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,7 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w57-d6@trainingplan
+DTSTART;VALUE=DATE:20271121
+DTEND;VALUE=DATE:20271122
+SUMMARY:🏃 Lang rolig – 13\,2 km
+DESCRIPTION:Uke 57/78 • Triatlonbygg\n5 min gange. 13\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w58-d1@trainingplan
+DTSTART;VALUE=DATE:20271123
+DTEND;VALUE=DATE:20271124
+SUMMARY:🏊 Svøm teknikk – 1\,3 km
+DESCRIPTION:Uke 58/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w58-d2@trainingplan
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+SUMMARY:🏃 Rolig løp – 8\,1 km
+DESCRIPTION:Uke 58/78 • Triatlonbygg\n5 min rask gange. 8\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w58-d3@trainingplan
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 58/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w58-d4@trainingplan
+DTSTART;VALUE=DATE:20271126
+DTEND;VALUE=DATE:20271127
+SUMMARY:🏊 Svøm utholdenhet – 1\,9 km
+DESCRIPTION:Uke 58/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w58-d5@trainingplan
+DTSTART;VALUE=DATE:20271127
+DTEND;VALUE=DATE:20271128
+SUMMARY:🚴 Lang sykkel – 68\,5 km + 🏃 2\,7 km
+DESCRIPTION:Uke 58/78 • Triatlonbygg\n68\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,7 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w58-d6@trainingplan
+DTSTART;VALUE=DATE:20271128
+DTEND;VALUE=DATE:20271129
+SUMMARY:🏃 Lang rolig – 13\,5 km
+DESCRIPTION:Uke 58/78 • Triatlonbygg\n5 min gange. 13\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w59-d1@trainingplan
+DTSTART;VALUE=DATE:20271130
+DTEND;VALUE=DATE:20271201
+SUMMARY:🏊 Svøm teknikk – 1\,3 km
+DESCRIPTION:Uke 59/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w59-d2@trainingplan
+DTSTART;VALUE=DATE:20271201
+DTEND;VALUE=DATE:20271202
+SUMMARY:🏃 Rolig løp – 8\,2 km
+DESCRIPTION:Uke 59/78 • Triatlonbygg\n5 min rask gange. 8\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w59-d3@trainingplan
+DTSTART;VALUE=DATE:20271202
+DTEND;VALUE=DATE:20271203
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 59/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w59-d4@trainingplan
+DTSTART;VALUE=DATE:20271203
+DTEND;VALUE=DATE:20271204
+SUMMARY:🏊 Svøm utholdenhet – 1\,9 km
+DESCRIPTION:Uke 59/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w59-d5@trainingplan
+DTSTART;VALUE=DATE:20271204
+DTEND;VALUE=DATE:20271205
+SUMMARY:🚴 Lang sykkel – 69\,6 km + 🏃 2\,8 km
+DESCRIPTION:Uke 59/78 • Triatlonbygg\n69\,6 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,8 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w59-d6@trainingplan
+DTSTART;VALUE=DATE:20271205
+DTEND;VALUE=DATE:20271206
+SUMMARY:🏃 Lang rolig – 13\,8 km
+DESCRIPTION:Uke 59/78 • Triatlonbygg\n5 min gange. 13\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w60-d1@trainingplan
+DTSTART;VALUE=DATE:20271207
+DTEND;VALUE=DATE:20271208
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 60/78 • Triatlonbygg • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w60-d2@trainingplan
+DTSTART;VALUE=DATE:20271208
+DTEND;VALUE=DATE:20271209
+SUMMARY:🏃 Rolig løp – 6\,6 km
+DESCRIPTION:Uke 60/78 • Triatlonbygg • LETT UKE\n5 min rask gange. 6\,6 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w60-d3@trainingplan
+DTSTART;VALUE=DATE:20271209
+DTEND;VALUE=DATE:20271210
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 60/78 • Triatlonbygg • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w60-d4@trainingplan
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271211
+SUMMARY:🏊 Svøm utholdenhet – 1\,5 km
+DESCRIPTION:Uke 60/78 • Triatlonbygg • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w60-d5@trainingplan
+DTSTART;VALUE=DATE:20271211
+DTEND;VALUE=DATE:20271212
+SUMMARY:🚴 Lang sykkel – 55\,1 km + 🏃 2\,2 km
+DESCRIPTION:Uke 60/78 • Triatlonbygg • LETT UKE\n55\,1 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,2 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w60-d6@trainingplan
+DTSTART;VALUE=DATE:20271212
+DTEND;VALUE=DATE:20271213
+SUMMARY:🏃 Lang rolig – 10\,9 km
+DESCRIPTION:Uke 60/78 • Triatlonbygg • LETT UKE\n5 min gange. 10\,9 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w61-d1@trainingplan
+DTSTART;VALUE=DATE:20271214
+DTEND;VALUE=DATE:20271215
+SUMMARY:🏊 Svøm teknikk – 1\,4 km
+DESCRIPTION:Uke 61/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w61-d2@trainingplan
+DTSTART;VALUE=DATE:20271215
+DTEND;VALUE=DATE:20271216
+SUMMARY:🏃 Rolig løp – 8\,5 km
+DESCRIPTION:Uke 61/78 • Triatlonbygg\n5 min rask gange. 8\,5 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w61-d3@trainingplan
+DTSTART;VALUE=DATE:20271216
+DTEND;VALUE=DATE:20271217
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 61/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w61-d4@trainingplan
+DTSTART;VALUE=DATE:20271217
+DTEND;VALUE=DATE:20271218
+SUMMARY:🏊 Svøm utholdenhet – 1\,9 km
+DESCRIPTION:Uke 61/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w61-d5@trainingplan
+DTSTART;VALUE=DATE:20271218
+DTEND;VALUE=DATE:20271219
+SUMMARY:🚴 Lang sykkel – 71\,8 km + 🏃 2\,9 km
+DESCRIPTION:Uke 61/78 • Triatlonbygg\n71\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,9 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w61-d6@trainingplan
+DTSTART;VALUE=DATE:20271219
+DTEND;VALUE=DATE:20271220
+SUMMARY:🏃 Lang rolig – 14\,2 km
+DESCRIPTION:Uke 61/78 • Triatlonbygg\n5 min gange. 14\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w62-d1@trainingplan
+DTSTART;VALUE=DATE:20271221
+DTEND;VALUE=DATE:20271222
+SUMMARY:🏊 Svøm teknikk – 1\,4 km
+DESCRIPTION:Uke 62/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w62-d2@trainingplan
+DTSTART;VALUE=DATE:20271222
+DTEND;VALUE=DATE:20271223
+SUMMARY:🏃 Rolig løp – 8\,7 km
+DESCRIPTION:Uke 62/78 • Triatlonbygg\n5 min rask gange. 8\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w62-d3@trainingplan
+DTSTART;VALUE=DATE:20271223
+DTEND;VALUE=DATE:20271224
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 62/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w62-d4@trainingplan
+DTSTART;VALUE=DATE:20271224
+DTEND;VALUE=DATE:20271225
+SUMMARY:🏊 Svøm utholdenhet – 2\,0 km
+DESCRIPTION:Uke 62/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w62-d5@trainingplan
+DTSTART;VALUE=DATE:20271225
+DTEND;VALUE=DATE:20271226
+SUMMARY:🚴 Lang sykkel – 72\,8 km + 🏃 2\,9 km
+DESCRIPTION:Uke 62/78 • Triatlonbygg\n72\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,9 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w62-d6@trainingplan
+DTSTART;VALUE=DATE:20271226
+DTEND;VALUE=DATE:20271227
+SUMMARY:🏃 Lang rolig – 14\,5 km
+DESCRIPTION:Uke 62/78 • Triatlonbygg\n5 min gange. 14\,5 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w63-d1@trainingplan
+DTSTART;VALUE=DATE:20271228
+DTEND;VALUE=DATE:20271229
+SUMMARY:🏊 Svøm teknikk – 1\,4 km
+DESCRIPTION:Uke 63/78 • Triatlonbygg\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w63-d2@trainingplan
+DTSTART;VALUE=DATE:20271229
+DTEND;VALUE=DATE:20271230
+SUMMARY:🏃 Rolig løp – 8\,8 km
+DESCRIPTION:Uke 63/78 • Triatlonbygg\n5 min rask gange. 8\,8 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w63-d3@trainingplan
+DTSTART;VALUE=DATE:20271230
+DTEND;VALUE=DATE:20271231
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 63/78 • Triatlonbygg\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w63-d4@trainingplan
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:🏊 Svøm utholdenhet – 2\,0 km
+DESCRIPTION:Uke 63/78 • Triatlonbygg\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w63-d5@trainingplan
+DTSTART;VALUE=DATE:20280101
+DTEND;VALUE=DATE:20280102
+SUMMARY:🚴 Lang sykkel – 73\,9 km + 🏃 3\,0 km
+DESCRIPTION:Uke 63/78 • Triatlonbygg\n73\,9 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,0 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w63-d6@trainingplan
+DTSTART;VALUE=DATE:20280102
+DTEND;VALUE=DATE:20280103
+SUMMARY:🏃 Lang rolig – 14\,8 km
+DESCRIPTION:Uke 63/78 • Triatlonbygg\n5 min gange. 14\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w64-d1@trainingplan
+DTSTART;VALUE=DATE:20280104
+DTEND;VALUE=DATE:20280105
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 64/78 • Triatlonbygg • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w64-d2@trainingplan
+DTSTART;VALUE=DATE:20280105
+DTEND;VALUE=DATE:20280106
+SUMMARY:🏃 Rolig løp – 7\,0 km
+DESCRIPTION:Uke 64/78 • Triatlonbygg • LETT UKE\n5 min rask gange. 7\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w64-d3@trainingplan
+DTSTART;VALUE=DATE:20280106
+DTEND;VALUE=DATE:20280107
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 64/78 • Triatlonbygg • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w64-d4@trainingplan
+DTSTART;VALUE=DATE:20280107
+DTEND;VALUE=DATE:20280108
+SUMMARY:🏊 Svøm utholdenhet – 1\,6 km
+DESCRIPTION:Uke 64/78 • Triatlonbygg • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w64-d5@trainingplan
+DTSTART;VALUE=DATE:20280108
+DTEND;VALUE=DATE:20280109
+SUMMARY:🚴 Lang sykkel – 58\,5 km + 🏃 2\,3 km
+DESCRIPTION:Uke 64/78 • Triatlonbygg • LETT UKE\n58\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,3 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w64-d6@trainingplan
+DTSTART;VALUE=DATE:20280109
+DTEND;VALUE=DATE:20280110
+SUMMARY:🏃 Lang rolig – 11\,7 km
+DESCRIPTION:Uke 64/78 • Triatlonbygg • LETT UKE\n5 min gange. 11\,7 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w65-d1@trainingplan
+DTSTART;VALUE=DATE:20280111
+DTEND;VALUE=DATE:20280112
+SUMMARY:🏊 Svøm teknikk – 1\,4 km
+DESCRIPTION:Uke 65/78 • Spesifikk\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w65-d2@trainingplan
+DTSTART;VALUE=DATE:20280112
+DTEND;VALUE=DATE:20280113
+SUMMARY:🏃 Rolig løp – 9\,2 km
+DESCRIPTION:Uke 65/78 • Spesifikk\n5 min rask gange. 9\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w65-d3@trainingplan
+DTSTART;VALUE=DATE:20280113
+DTEND;VALUE=DATE:20280114
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 65/78 • Spesifikk\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w65-d4@trainingplan
+DTSTART;VALUE=DATE:20280114
+DTEND;VALUE=DATE:20280115
+SUMMARY:🏊 Svøm utholdenhet – 2\,0 km
+DESCRIPTION:Uke 65/78 • Spesifikk\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w65-d5@trainingplan
+DTSTART;VALUE=DATE:20280115
+DTEND;VALUE=DATE:20280116
+SUMMARY:🚴 Lang sykkel – 76\,2 km + 🏃 3\,1 km
+DESCRIPTION:Uke 65/78 • Spesifikk\n76\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,1 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w65-d6@trainingplan
+DTSTART;VALUE=DATE:20280116
+DTEND;VALUE=DATE:20280117
+SUMMARY:🏃 Lang rolig – 15\,4 km
+DESCRIPTION:Uke 65/78 • Spesifikk\n5 min gange. 15\,4 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w66-d1@trainingplan
+DTSTART;VALUE=DATE:20280118
+DTEND;VALUE=DATE:20280119
+SUMMARY:🏊 Svøm teknikk – 1\,4 km
+DESCRIPTION:Uke 66/78 • Spesifikk\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w66-d2@trainingplan
+DTSTART;VALUE=DATE:20280119
+DTEND;VALUE=DATE:20280120
+SUMMARY:🏃 Rolig løp – 9\,4 km
+DESCRIPTION:Uke 66/78 • Spesifikk\n5 min rask gange. 9\,4 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w66-d3@trainingplan
+DTSTART;VALUE=DATE:20280120
+DTEND;VALUE=DATE:20280121
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 66/78 • Spesifikk\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w66-d4@trainingplan
+DTSTART;VALUE=DATE:20280121
+DTEND;VALUE=DATE:20280122
+SUMMARY:🏊 Svøm utholdenhet – 2\,0 km
+DESCRIPTION:Uke 66/78 • Spesifikk\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w66-d5@trainingplan
+DTSTART;VALUE=DATE:20280122
+DTEND;VALUE=DATE:20280123
+SUMMARY:🚴 Lang sykkel – 77\,5 km + 🏃 3\,2 km
+DESCRIPTION:Uke 66/78 • Spesifikk\n77\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,2 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w66-d6@trainingplan
+DTSTART;VALUE=DATE:20280123
+DTEND;VALUE=DATE:20280124
+SUMMARY:🏃 Lang rolig – 15\,8 km
+DESCRIPTION:Uke 66/78 • Spesifikk\n5 min gange. 15\,8 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w67-d1@trainingplan
+DTSTART;VALUE=DATE:20280125
+DTEND;VALUE=DATE:20280126
+SUMMARY:🏊 Svøm teknikk – 1\,5 km
+DESCRIPTION:Uke 67/78 • Spesifikk\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w67-d2@trainingplan
+DTSTART;VALUE=DATE:20280126
+DTEND;VALUE=DATE:20280127
+SUMMARY:🏃 Rolig løp – 9\,7 km
+DESCRIPTION:Uke 67/78 • Spesifikk\n5 min rask gange. 9\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w67-d3@trainingplan
+DTSTART;VALUE=DATE:20280127
+DTEND;VALUE=DATE:20280128
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 67/78 • Spesifikk\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w67-d4@trainingplan
+DTSTART;VALUE=DATE:20280128
+DTEND;VALUE=DATE:20280129
+SUMMARY:🏊 Svøm utholdenhet – 2\,1 km
+DESCRIPTION:Uke 67/78 • Spesifikk\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w67-d5@trainingplan
+DTSTART;VALUE=DATE:20280129
+DTEND;VALUE=DATE:20280130
+SUMMARY:🚴 Lang sykkel – 78\,8 km + 🏃 3\,2 km
+DESCRIPTION:Uke 67/78 • Spesifikk\n78\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,2 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w67-d6@trainingplan
+DTSTART;VALUE=DATE:20280130
+DTEND;VALUE=DATE:20280131
+SUMMARY:🏃 Lang rolig – 16\,1 km
+DESCRIPTION:Uke 67/78 • Spesifikk\n5 min gange. 16\,1 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w68-d1@trainingplan
+DTSTART;VALUE=DATE:20280201
+DTEND;VALUE=DATE:20280202
+SUMMARY:🏊 Svøm teknikk – 1\,1 km
+DESCRIPTION:Uke 68/78 • Spesifikk • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w68-d2@trainingplan
+DTSTART;VALUE=DATE:20280202
+DTEND;VALUE=DATE:20280203
+SUMMARY:🏃 Rolig løp – 7\,7 km
+DESCRIPTION:Uke 68/78 • Spesifikk • LETT UKE\n5 min rask gange. 7\,7 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w68-d3@trainingplan
+DTSTART;VALUE=DATE:20280203
+DTEND;VALUE=DATE:20280204
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 68/78 • Spesifikk • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w68-d4@trainingplan
+DTSTART;VALUE=DATE:20280204
+DTEND;VALUE=DATE:20280205
+SUMMARY:🏊 Svøm utholdenhet – 1\,6 km
+DESCRIPTION:Uke 68/78 • Spesifikk • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w68-d5@trainingplan
+DTSTART;VALUE=DATE:20280205
+DTEND;VALUE=DATE:20280206
+SUMMARY:🚴 Lang sykkel – 62\,4 km + 🏃 2\,6 km
+DESCRIPTION:Uke 68/78 • Spesifikk • LETT UKE\n62\,4 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,6 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w68-d6@trainingplan
+DTSTART;VALUE=DATE:20280206
+DTEND;VALUE=DATE:20280207
+SUMMARY:🏃 Lang rolig – 12\,9 km
+DESCRIPTION:Uke 68/78 • Spesifikk • LETT UKE\n5 min gange. 12\,9 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w69-d1@trainingplan
+DTSTART;VALUE=DATE:20280208
+DTEND;VALUE=DATE:20280209
+SUMMARY:🏊 Svøm teknikk – 1\,5 km
+DESCRIPTION:Uke 69/78 • Spesifikk\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w69-d2@trainingplan
+DTSTART;VALUE=DATE:20280209
+DTEND;VALUE=DATE:20280210
+SUMMARY:🏃 Rolig løp – 10\,1 km
+DESCRIPTION:Uke 69/78 • Spesifikk\n5 min rask gange. 10\,1 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w69-d3@trainingplan
+DTSTART;VALUE=DATE:20280210
+DTEND;VALUE=DATE:20280211
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 69/78 • Spesifikk\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w69-d4@trainingplan
+DTSTART;VALUE=DATE:20280211
+DTEND;VALUE=DATE:20280212
+SUMMARY:🏊 Svøm utholdenhet – 2\,1 km
+DESCRIPTION:Uke 69/78 • Spesifikk\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w69-d5@trainingplan
+DTSTART;VALUE=DATE:20280212
+DTEND;VALUE=DATE:20280213
+SUMMARY:🚴 Lang sykkel – 81\,2 km + 🏃 3\,4 km
+DESCRIPTION:Uke 69/78 • Spesifikk\n81\,2 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,4 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w69-d6@trainingplan
+DTSTART;VALUE=DATE:20280213
+DTEND;VALUE=DATE:20280214
+SUMMARY:🏃 Lang rolig – 16\,9 km
+DESCRIPTION:Uke 69/78 • Spesifikk\n5 min gange. 16\,9 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w70-d1@trainingplan
+DTSTART;VALUE=DATE:20280215
+DTEND;VALUE=DATE:20280216
+SUMMARY:🏊 Svøm teknikk – 1\,5 km
+DESCRIPTION:Uke 70/78 • Spesifikk\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w70-d2@trainingplan
+DTSTART;VALUE=DATE:20280216
+DTEND;VALUE=DATE:20280217
+SUMMARY:🏃 Rolig løp – 10\,3 km
+DESCRIPTION:Uke 70/78 • Spesifikk\n5 min rask gange. 10\,3 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w70-d3@trainingplan
+DTSTART;VALUE=DATE:20280217
+DTEND;VALUE=DATE:20280218
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 70/78 • Spesifikk\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w70-d4@trainingplan
+DTSTART;VALUE=DATE:20280218
+DTEND;VALUE=DATE:20280219
+SUMMARY:🏊 Svøm utholdenhet – 2\,2 km
+DESCRIPTION:Uke 70/78 • Spesifikk\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w70-d5@trainingplan
+DTSTART;VALUE=DATE:20280219
+DTEND;VALUE=DATE:20280220
+SUMMARY:🚴 Lang sykkel – 82\,5 km + 🏃 3\,5 km
+DESCRIPTION:Uke 70/78 • Spesifikk\n82\,5 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,5 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w70-d6@trainingplan
+DTSTART;VALUE=DATE:20280220
+DTEND;VALUE=DATE:20280221
+SUMMARY:🏃 Lang rolig – 17\,2 km
+DESCRIPTION:Uke 70/78 • Spesifikk\n5 min gange. 17\,2 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w71-d1@trainingplan
+DTSTART;VALUE=DATE:20280222
+DTEND;VALUE=DATE:20280223
+SUMMARY:🏊 Svøm teknikk – 1\,5 km
+DESCRIPTION:Uke 71/78 • Spesifikk\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w71-d2@trainingplan
+DTSTART;VALUE=DATE:20280223
+DTEND;VALUE=DATE:20280224
+SUMMARY:🏃 Rolig løp – 10\,6 km
+DESCRIPTION:Uke 71/78 • Spesifikk\n5 min rask gange. 10\,6 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w71-d3@trainingplan
+DTSTART;VALUE=DATE:20280224
+DTEND;VALUE=DATE:20280225
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 71/78 • Spesifikk\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w71-d4@trainingplan
+DTSTART;VALUE=DATE:20280225
+DTEND;VALUE=DATE:20280226
+SUMMARY:🏊 Svøm utholdenhet – 2\,2 km
+DESCRIPTION:Uke 71/78 • Spesifikk\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w71-d5@trainingplan
+DTSTART;VALUE=DATE:20280226
+DTEND;VALUE=DATE:20280227
+SUMMARY:🚴 Lang sykkel – 83\,8 km + 🏃 3\,5 km
+DESCRIPTION:Uke 71/78 • Spesifikk\n83\,8 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,5 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w71-d6@trainingplan
+DTSTART;VALUE=DATE:20280227
+DTEND;VALUE=DATE:20280228
+SUMMARY:🏃 Lang rolig – 17\,6 km
+DESCRIPTION:Uke 71/78 • Spesifikk\n5 min gange. 17\,6 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w72-d1@trainingplan
+DTSTART;VALUE=DATE:20280229
+DTEND;VALUE=DATE:20280301
+SUMMARY:🏊 Svøm teknikk – 1\,2 km
+DESCRIPTION:Uke 72/78 • Spesifikk • LETT UKE\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w72-d2@trainingplan
+DTSTART;VALUE=DATE:20280301
+DTEND;VALUE=DATE:20280302
+SUMMARY:🏃 Rolig løp – 8\,4 km
+DESCRIPTION:Uke 72/78 • Spesifikk • LETT UKE\n5 min rask gange. 8\,4 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w72-d3@trainingplan
+DTSTART;VALUE=DATE:20280302
+DTEND;VALUE=DATE:20280303
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 72/78 • Spesifikk • LETT UKE\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w72-d4@trainingplan
+DTSTART;VALUE=DATE:20280303
+DTEND;VALUE=DATE:20280304
+SUMMARY:🏊 Svøm utholdenhet – 1\,7 km
+DESCRIPTION:Uke 72/78 • Spesifikk • LETT UKE\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w72-d5@trainingplan
+DTSTART;VALUE=DATE:20280304
+DTEND;VALUE=DATE:20280305
+SUMMARY:🚴 Lang sykkel – 66\,3 km + 🏃 2\,8 km
+DESCRIPTION:Uke 72/78 • Spesifikk • LETT UKE\n66\,3 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,8 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w72-d6@trainingplan
+DTSTART;VALUE=DATE:20280305
+DTEND;VALUE=DATE:20280306
+SUMMARY:🏃 Lang rolig – 14\,0 km
+DESCRIPTION:Uke 72/78 • Spesifikk • LETT UKE\n5 min gange. 14\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w73-d1@trainingplan
+DTSTART;VALUE=DATE:20280307
+DTEND;VALUE=DATE:20280308
+SUMMARY:🏊 Svøm teknikk – 1\,6 km
+DESCRIPTION:Uke 73/78 • Peak\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w73-d2@trainingplan
+DTSTART;VALUE=DATE:20280308
+DTEND;VALUE=DATE:20280309
+SUMMARY:🏃 Rolig løp – 11\,0 km
+DESCRIPTION:Uke 73/78 • Peak\n5 min rask gange. 11\,0 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w73-d3@trainingplan
+DTSTART;VALUE=DATE:20280309
+DTEND;VALUE=DATE:20280310
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 73/78 • Peak\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w73-d4@trainingplan
+DTSTART;VALUE=DATE:20280310
+DTEND;VALUE=DATE:20280311
+SUMMARY:🏊 Svøm utholdenhet – 2\,2 km
+DESCRIPTION:Uke 73/78 • Peak\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w73-d5@trainingplan
+DTSTART;VALUE=DATE:20280311
+DTEND;VALUE=DATE:20280312
+SUMMARY:🚴 Lang sykkel – 86\,7 km + 🏃 3\,7 km
+DESCRIPTION:Uke 73/78 • Peak\n86\,7 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,7 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w73-d6@trainingplan
+DTSTART;VALUE=DATE:20280312
+DTEND;VALUE=DATE:20280313
+SUMMARY:🏃 Lang rolig – 18\,3 km
+DESCRIPTION:Uke 73/78 • Peak\n5 min gange. 18\,3 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w74-d1@trainingplan
+DTSTART;VALUE=DATE:20280314
+DTEND;VALUE=DATE:20280315
+SUMMARY:🏊 Svøm teknikk – 1\,6 km
+DESCRIPTION:Uke 74/78 • Peak\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w74-d2@trainingplan
+DTSTART;VALUE=DATE:20280315
+DTEND;VALUE=DATE:20280316
+SUMMARY:🏃 Rolig løp – 11\,2 km
+DESCRIPTION:Uke 74/78 • Peak\n5 min rask gange. 11\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w74-d3@trainingplan
+DTSTART;VALUE=DATE:20280316
+DTEND;VALUE=DATE:20280317
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 74/78 • Peak\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w74-d4@trainingplan
+DTSTART;VALUE=DATE:20280317
+DTEND;VALUE=DATE:20280318
+SUMMARY:🏊 Svøm utholdenhet – 2\,3 km
+DESCRIPTION:Uke 74/78 • Peak\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w74-d5@trainingplan
+DTSTART;VALUE=DATE:20280318
+DTEND;VALUE=DATE:20280319
+SUMMARY:🚴 Lang sykkel – 88\,3 km + 🏃 3\,7 km
+DESCRIPTION:Uke 74/78 • Peak\n88\,3 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,7 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w74-d6@trainingplan
+DTSTART;VALUE=DATE:20280319
+DTEND;VALUE=DATE:20280320
+SUMMARY:🏃 Lang rolig – 18\,7 km
+DESCRIPTION:Uke 74/78 • Peak\n5 min gange. 18\,7 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w75-d1@trainingplan
+DTSTART;VALUE=DATE:20280321
+DTEND;VALUE=DATE:20280322
+SUMMARY:🏊 Svøm teknikk – 1\,6 km
+DESCRIPTION:Uke 75/78 • Peak\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w75-d2@trainingplan
+DTSTART;VALUE=DATE:20280322
+DTEND;VALUE=DATE:20280323
+SUMMARY:🏃 Rolig løp – 11\,4 km
+DESCRIPTION:Uke 75/78 • Peak\n5 min rask gange. 11\,4 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w75-d3@trainingplan
+DTSTART;VALUE=DATE:20280323
+DTEND;VALUE=DATE:20280324
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 75/78 • Peak\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w75-d4@trainingplan
+DTSTART;VALUE=DATE:20280324
+DTEND;VALUE=DATE:20280325
+SUMMARY:🏊 Svøm utholdenhet – 2\,3 km
+DESCRIPTION:Uke 75/78 • Peak\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w75-d5@trainingplan
+DTSTART;VALUE=DATE:20280325
+DTEND;VALUE=DATE:20280326
+SUMMARY:🚴 Lang sykkel – 90\,0 km + 🏃 3\,8 km
+DESCRIPTION:Uke 75/78 • Peak\n90\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 3\,8 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w75-d6@trainingplan
+DTSTART;VALUE=DATE:20280326
+DTEND;VALUE=DATE:20280327
+SUMMARY:🏃 Lang rolig – 19\,0 km
+DESCRIPTION:Uke 75/78 • Peak\n5 min gange. 19\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w76-d1@trainingplan
+DTSTART;VALUE=DATE:20280328
+DTEND;VALUE=DATE:20280329
+SUMMARY:🏊 Svøm teknikk – 1\,3 km
+DESCRIPTION:Uke 76/78 • Nedtrapping\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w76-d2@trainingplan
+DTSTART;VALUE=DATE:20280329
+DTEND;VALUE=DATE:20280330
+SUMMARY:🏃 Rolig løp – 8\,8 km
+DESCRIPTION:Uke 76/78 • Nedtrapping\n5 min rask gange. 8\,8 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w76-d3@trainingplan
+DTSTART;VALUE=DATE:20280330
+DTEND;VALUE=DATE:20280331
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 76/78 • Nedtrapping\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w76-d4@trainingplan
+DTSTART;VALUE=DATE:20280331
+DTEND;VALUE=DATE:20280401
+SUMMARY:🏊 Svøm utholdenhet – 1\,9 km
+DESCRIPTION:Uke 76/78 • Nedtrapping\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w76-d5@trainingplan
+DTSTART;VALUE=DATE:20280401
+DTEND;VALUE=DATE:20280402
+SUMMARY:🚴 Lang sykkel – 71\,7 km + 🏃 2\,9 km
+DESCRIPTION:Uke 76/78 • Nedtrapping\n71\,7 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,9 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w76-d6@trainingplan
+DTSTART;VALUE=DATE:20280402
+DTEND;VALUE=DATE:20280403
+SUMMARY:🏃 Lang rolig – 14\,7 km
+DESCRIPTION:Uke 76/78 • Nedtrapping\n5 min gange. 14\,7 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w77-d1@trainingplan
+DTSTART;VALUE=DATE:20280404
+DTEND;VALUE=DATE:20280405
+SUMMARY:🏊 Svøm teknikk – 1\,0 km
+DESCRIPTION:Uke 77/78 • Nedtrapping\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w77-d2@trainingplan
+DTSTART;VALUE=DATE:20280405
+DTEND;VALUE=DATE:20280406
+SUMMARY:🏃 Rolig løp – 6\,2 km
+DESCRIPTION:Uke 77/78 • Nedtrapping\n5 min rask gange. 6\,2 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w77-d3@trainingplan
+DTSTART;VALUE=DATE:20280406
+DTEND;VALUE=DATE:20280407
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 77/78 • Nedtrapping\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w77-d4@trainingplan
+DTSTART;VALUE=DATE:20280407
+DTEND;VALUE=DATE:20280408
+SUMMARY:🏊 Svøm utholdenhet – 1\,4 km
+DESCRIPTION:Uke 77/78 • Nedtrapping\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w77-d5@trainingplan
+DTSTART;VALUE=DATE:20280408
+DTEND;VALUE=DATE:20280409
+SUMMARY:🚴 Lang sykkel – 53\,3 km + 🏃 2\,1 km
+DESCRIPTION:Uke 77/78 • Nedtrapping\n53\,3 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 2\,1 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w77-d6@trainingplan
+DTSTART;VALUE=DATE:20280409
+DTEND;VALUE=DATE:20280410
+SUMMARY:🏃 Lang rolig – 10\,3 km
+DESCRIPTION:Uke 77/78 • Nedtrapping\n5 min gange. 10\,3 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w78-d1@trainingplan
+DTSTART;VALUE=DATE:20280411
+DTEND;VALUE=DATE:20280412
+SUMMARY:🏊 Svøm teknikk – 0\,7 km
+DESCRIPTION:Uke 78/78 • Nedtrapping\n200 m rolig. 4×50 m teknikk med 20–30 sek pause. Resten rolig i 50–100 m drag. Avslutt med ca. 100 m rolig.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w78-d2@trainingplan
+DTSTART;VALUE=DATE:20280412
+DTEND;VALUE=DATE:20280413
+SUMMARY:🏃 Rolig løp – 3\,6 km
+DESCRIPTION:Uke 78/78 • Nedtrapping\n5 min rask gange. 3\,6 km svært rolig. Gå 1 min ved behov. Avslutt med 5 min gange. Målet er kontrollert\, lett innsats.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w78-d3@trainingplan
+DTSTART;VALUE=DATE:20280413
+DTEND;VALUE=DATE:20280414
+SUMMARY:🚴 Sykkel kvalitet – 60–75 min
+DESCRIPTION:Uke 78/78 • Nedtrapping\n60–75 min. Rolig oppvarming. 3–4 kontrollerte drag på 5–8 min rundt RPE 6/10\, rolig mellom dragene og rolig nedkjøring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w78-d4@trainingplan
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280415
+SUMMARY:🏊 Svøm utholdenhet – 1\,0 km
+DESCRIPTION:Uke 78/78 • Nedtrapping\n200 m rolig. Hoveddel i 100–200 m drag med 20–30 sek pause. Avslutt med ca. 200 m rolig. Jevn\, avslappet svømming.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w78-d5@trainingplan
+DTSTART;VALUE=DATE:20280415
+DTEND;VALUE=DATE:20280416
+SUMMARY:🚴 Lang sykkel – 35\,0 km + 🏃 1\,2 km
+DESCRIPTION:Uke 78/78 • Nedtrapping\n35\,0 km rolig sykkel i snakketempo/Z2. Første 10 min svært rolig. Øv på drikke og energi. Siste 5–10 min ekstra rolig.\nDirekte etterpå: 1\,2 km svært rolig jogg/gange (brick).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:triathlon-w78-d6@trainingplan
+DTSTART;VALUE=DATE:20280416
+DTEND;VALUE=DATE:20280417
+SUMMARY:🏃 Lang rolig – 6\,0 km
+DESCRIPTION:Uke 78/78 • Nedtrapping\n5 min gange. 6\,0 km rolig. Gå/løp er helt greit\, f.eks. 9 min jogg + 1 min gange. Ingen jakt på fart. Avslutt med 5 min gange.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
